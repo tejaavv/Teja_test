@@ -12,8 +12,9 @@ def game_logic(goal):
 
 goal = "More than 25"
 def main():
+    goal = 30
     game_guide()
-    game_logic(25)
+    game_logic(goal)
 
 
 if __name__ == "__main__":
