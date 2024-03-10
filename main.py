@@ -12,7 +12,7 @@ def game_logic(goal):
 
 goal = "More than 25"
 def main():
-    goal = 30
+    goal = 35
     game_guide()
     game_logic(goal)
 
